@@ -1,0 +1,15 @@
+2021-01-29 16:40:27,733 - DEBUG - snagajob - Snagajob module created
+2021-01-29 16:40:29,298 - DEBUG - snagajob - Search submitted with the following parameters: {'job': 'botanist', 'location': 'New York', 'country': 'US'}30
+2021-01-29 16:40:33,691 - DEBUG - snagajob - Request sent to https://www.snagajob.com/search?q=botanist&w=New York&radius=5&sort=date
+2021-01-29 16:40:33,732 - INFO - snagajob - Shutting down Snagajob mining module
+2021-01-29 16:42:25,749 - DEBUG - snagajob - Snagajob module created
+2021-01-29 16:42:25,749 - DEBUG - snagajob - Snagajob module created
+2021-01-29 16:42:27,211 - DEBUG - snagajob - Search submitted with the following parameters: {'job': 'botanist', 'location': 'New York', 'country': 'US'}30
+2021-01-29 16:42:27,211 - DEBUG - snagajob - Search submitted with the following parameters: {'job': 'botanist', 'location': 'New York', 'country': 'US'}30
+2021-01-29 16:42:31,615 - DEBUG - snagajob - Request sent to https://www.snagajob.com/search?q=botanist&w=New York&radius=5&sort=date
+2021-01-29 16:42:31,615 - DEBUG - snagajob - Request sent to https://www.snagajob.com/search?q=botanist&w=New York&radius=5&sort=date
+2021-01-29 16:42:31,645 - INFO - snagajob - Shutting down Snagajob mining module
+2021-01-29 16:42:31,645 - INFO - snagajob - Shutting down Snagajob mining module
+2021-05-03 14:02:43,720 - DEBUG - snagajob - Search submitted with the following parameters: {'job': 'cashier', 'location': 'Anchorage', 'country': 'US'}30
+2021-05-03 14:02:51,836 - DEBUG - snagajob - Request sent to https://www.snagajob.com/search?q=cashier&w=Anchorage&radius=5&sort=date
+2021-05-03 14:04:16,672 - DEBUG - snagajob - Search completed with the following parameters: {'job': 'cashier', 'location': 'Anchorage', 'country': 'US'}

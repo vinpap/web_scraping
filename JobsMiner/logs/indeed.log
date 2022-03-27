@@ -1,0 +1,29 @@
+2021-01-29 16:40:26,188 - DEBUG - indeed - Indeed module created
+2021-01-29 16:40:29,299 - DEBUG - indeed - Search submitted with the following parameters: {'job': 'botanist', 'location': 'New York', 'country': 'US'}
+2021-01-29 16:40:30,674 - DEBUG - indeed - Request sent to https://www.indeed.com/jobs?q=botanist&l=New York&sort=date
+2021-01-29 16:40:30,887 - DEBUG - indeed - 7 jobs found
+2021-01-29 16:40:30,888 - DEBUG - indeed - Taille du dictionnaire : 7
+2021-01-29 16:40:30,888 - DEBUG - indeed - Search duration for Indeed: 1.5883243083953857 secs
+2021-01-29 16:40:30,889 - DEBUG - indeed - Search completed with the following parameters: {'job': 'botanist', 'location': 'New York', 'country': 'US'}
+2021-01-29 16:40:33,731 - INFO - indeed - Shutting down Indeed mining module
+2021-01-29 16:42:24,253 - DEBUG - indeed - Indeed module created
+2021-01-29 16:42:24,253 - DEBUG - indeed - Indeed module created
+2021-01-29 16:42:27,215 - DEBUG - indeed - Search submitted with the following parameters: {'job': 'botanist', 'location': 'New York', 'country': 'US'}
+2021-01-29 16:42:27,215 - DEBUG - indeed - Search submitted with the following parameters: {'job': 'botanist', 'location': 'New York', 'country': 'US'}
+2021-01-29 16:42:28,276 - DEBUG - indeed - Request sent to https://www.indeed.com/jobs?q=botanist&l=New York&sort=date
+2021-01-29 16:42:28,276 - DEBUG - indeed - Request sent to https://www.indeed.com/jobs?q=botanist&l=New York&sort=date
+2021-01-29 16:42:28,495 - DEBUG - indeed - 7 jobs found
+2021-01-29 16:42:28,495 - DEBUG - indeed - 7 jobs found
+2021-01-29 16:42:28,495 - DEBUG - indeed - Taille du dictionnaire : 7
+2021-01-29 16:42:28,495 - DEBUG - indeed - Taille du dictionnaire : 7
+2021-01-29 16:42:28,496 - DEBUG - indeed - Search duration for Indeed: 1.279376745223999 secs
+2021-01-29 16:42:28,496 - DEBUG - indeed - Search duration for Indeed: 1.279376745223999 secs
+2021-01-29 16:42:28,496 - DEBUG - indeed - Search completed with the following parameters: {'job': 'botanist', 'location': 'New York', 'country': 'US'}
+2021-01-29 16:42:28,496 - DEBUG - indeed - Search completed with the following parameters: {'job': 'botanist', 'location': 'New York', 'country': 'US'}
+2021-01-29 16:42:31,645 - INFO - indeed - Shutting down Indeed mining module
+2021-01-29 16:42:31,645 - INFO - indeed - Shutting down Indeed mining module
+2021-05-03 14:02:43,724 - DEBUG - indeed - Search submitted with the following parameters: {'job': 'cashier', 'location': 'Anchorage', 'country': 'US'}
+2021-05-03 14:02:45,143 - DEBUG - indeed - Request sent to https://www.indeed.com/jobs?q=cashier&l=Anchorage&sort=date
+2021-05-03 14:02:46,650 - DEBUG - indeed - Request sent to https://www.indeed.com/jobs?q=cashier&l=Anchorage&radius=15&sort=date&start=10
+2021-05-03 14:02:48,582 - DEBUG - indeed - Request sent to https://www.indeed.com/jobs?q=cashier&l=Anchorage&radius=15&sort=date&start=20
+2021-05-03 14:02:49,030 - DEBUG - indeed - Search completed with the following parameters: {'job': 'cashier', 'location': 'Anchorage', 'country': 'US'}

@@ -1,0 +1,576 @@
+2020-11-24 18:26:08,234 - INFO - server - Server created
+2020-11-24 18:26:08,236 - INFO - server - Launching server
+2020-11-24 18:29:04,019 - INFO - server - Server created
+2020-11-24 18:29:04,021 - INFO - server - Launching server
+2020-11-24 18:37:19,037 - INFO - server - Server created
+2020-11-24 18:37:19,039 - INFO - server - Launching server
+2020-11-24 18:40:30,798 - INFO - server - Server created
+2020-11-24 18:40:30,800 - INFO - server - Launching server
+2020-11-24 18:51:08,514 - INFO - server - Server created
+2020-11-24 18:51:08,516 - INFO - server - Launching server
+2020-11-24 18:57:19,413 - INFO - server - Server created
+2020-11-24 18:57:19,414 - INFO - server - Launching server
+2020-11-24 19:00:44,799 - INFO - server - Server created
+2020-11-24 19:00:44,800 - INFO - server - Launching server
+2020-11-24 19:04:40,236 - INFO - server - Server created
+2020-11-24 19:04:40,237 - INFO - server - Launching server
+2020-11-24 19:10:34,498 - INFO - server - Server created
+2020-11-24 19:10:34,500 - INFO - server - Launching server
+2020-11-24 19:19:53,213 - INFO - server - Server created
+2020-11-24 19:19:53,217 - INFO - server - Launching server
+2020-11-24 19:21:24,200 - INFO - server - Server created
+2020-11-24 19:21:24,204 - INFO - server - Launching server
+2020-11-24 19:22:13,889 - INFO - server - Server created
+2020-11-24 19:22:13,891 - INFO - server - Launching server
+2020-11-24 19:25:07,139 - INFO - server - Server created
+2020-11-24 19:25:07,141 - INFO - server - Launching server
+2020-11-24 19:28:12,541 - INFO - server - Server created
+2020-11-24 19:28:12,543 - INFO - server - Launching server
+2020-11-24 19:29:50,012 - INFO - server - Server created
+2020-11-24 19:29:50,014 - INFO - server - Launching server
+2020-11-24 19:35:49,884 - INFO - server - Server created
+2020-11-24 19:35:49,888 - INFO - server - Launching server
+2020-11-24 19:42:40,415 - INFO - server - Server created
+2020-11-24 19:42:40,417 - INFO - server - Launching server
+2020-11-24 20:30:05,883 - INFO - server - Server created
+2020-11-24 20:30:05,885 - INFO - server - Launching server
+2020-11-24 20:44:55,431 - INFO - server - Server created
+2020-11-24 20:44:55,433 - INFO - server - Launching server
+2020-11-24 20:46:14,697 - INFO - server - Server created
+2020-11-24 20:46:14,700 - INFO - server - Launching server
+2020-11-24 20:53:04,591 - INFO - server - Server created
+2020-11-24 20:53:04,595 - INFO - server - Launching server
+2020-11-24 21:04:46,388 - INFO - server - Server created
+2020-11-24 21:04:46,391 - INFO - server - Launching server
+2020-11-24 21:14:45,679 - INFO - server - Server created
+2020-11-24 21:14:45,684 - INFO - server - Launching server
+2020-11-25 17:22:23,760 - INFO - server - Server created
+2020-11-25 17:22:23,764 - INFO - server - Launching server
+2020-11-25 18:54:05,707 - INFO - server - Server created
+2020-11-25 18:54:05,709 - INFO - server - Launching server
+2020-11-26 19:12:07,143 - INFO - server - Server created
+2020-11-26 19:12:07,147 - INFO - server - Launching server
+2020-11-30 14:13:35,665 - INFO - server - Server created
+2020-11-30 14:13:35,667 - INFO - server - Launching server
+2020-11-30 14:32:56,447 - INFO - server - Server created
+2020-11-30 14:32:56,449 - INFO - server - Launching server
+2020-11-30 17:42:22,404 - INFO - server - Server created
+2020-11-30 17:42:22,406 - INFO - server - Launching server
+2020-12-01 14:39:36,072 - INFO - server - Server created
+2020-12-01 14:39:36,075 - INFO - server - Launching server
+2020-12-01 18:49:19,683 - INFO - server - Server created
+2020-12-01 18:49:19,685 - INFO - server - Launching server
+2020-12-01 18:57:11,271 - INFO - server - Server created
+2020-12-01 18:57:11,273 - INFO - server - Launching server
+2020-12-01 19:00:55,712 - INFO - server - Server created
+2020-12-01 19:00:55,714 - INFO - server - Launching server
+2020-12-02 15:25:58,055 - INFO - server - Server created
+2020-12-02 15:25:58,057 - INFO - server - Launching server
+2020-12-02 15:31:16,126 - INFO - server - Server created
+2020-12-02 15:31:16,128 - INFO - server - Launching server
+2020-12-02 15:34:20,248 - INFO - server - Server created
+2020-12-02 15:34:20,250 - INFO - server - Launching server
+2020-12-02 15:35:03,738 - INFO - server - Server created
+2020-12-02 15:35:03,739 - INFO - server - Launching server
+2020-12-02 15:43:17,046 - INFO - server - Server created
+2020-12-02 15:43:17,047 - INFO - server - Launching server
+2020-12-02 16:05:19,604 - INFO - server - Server created
+2020-12-02 16:05:19,606 - INFO - server - Launching server
+2020-12-02 16:08:18,335 - INFO - server - Server created
+2020-12-02 16:08:18,336 - INFO - server - Launching server
+2020-12-02 16:09:05,047 - INFO - server - Server created
+2020-12-02 16:09:05,049 - INFO - server - Launching server
+2020-12-02 16:09:52,798 - INFO - server - Server created
+2020-12-02 16:09:52,799 - INFO - server - Launching server
+2020-12-02 16:13:18,819 - INFO - server - Server created
+2020-12-02 16:13:18,820 - INFO - server - Launching server
+2020-12-02 16:16:33,559 - INFO - server - Server created
+2020-12-02 16:16:33,561 - INFO - server - Launching server
+2020-12-02 16:28:35,421 - INFO - server - Server created
+2020-12-02 16:28:35,423 - INFO - server - Launching server
+2020-12-02 18:05:25,180 - INFO - server - Server created
+2020-12-02 18:05:25,182 - INFO - server - Launching server
+2020-12-02 18:08:07,990 - INFO - server - Server created
+2020-12-02 18:08:07,991 - INFO - server - Launching server
+2020-12-02 18:10:39,035 - INFO - server - Server created
+2020-12-02 18:10:39,037 - INFO - server - Launching server
+2020-12-02 18:12:58,313 - INFO - server - Server created
+2020-12-02 18:12:58,315 - INFO - server - Launching server
+2020-12-02 18:15:44,199 - INFO - server - Server created
+2020-12-02 18:15:44,201 - INFO - server - Launching server
+2020-12-02 18:18:02,934 - INFO - server - Server created
+2020-12-02 18:18:02,935 - INFO - server - Launching server
+2020-12-02 18:20:16,379 - INFO - server - Server created
+2020-12-02 18:20:16,382 - INFO - server - Launching server
+2020-12-02 18:21:24,645 - INFO - server - Server created
+2020-12-02 18:21:24,647 - INFO - server - Launching server
+2020-12-02 18:22:27,163 - INFO - server - Server created
+2020-12-02 18:22:27,165 - INFO - server - Launching server
+2020-12-02 18:23:13,117 - INFO - server - Server created
+2020-12-02 18:23:13,119 - INFO - server - Launching server
+2020-12-02 20:22:20,773 - INFO - server - Server created
+2020-12-02 20:22:20,778 - INFO - server - Launching server
+2020-12-02 20:23:29,141 - INFO - server - Server created
+2020-12-02 20:23:29,143 - INFO - server - Launching server
+2020-12-03 14:50:59,424 - INFO - server - Server created
+2020-12-03 14:50:59,428 - INFO - server - Launching server
+2020-12-03 14:52:23,026 - INFO - server - Server created
+2020-12-03 14:52:23,028 - INFO - server - Launching server
+2020-12-03 15:46:18,486 - INFO - server - Server created
+2020-12-03 15:46:18,489 - INFO - server - Launching server
+2020-12-03 15:51:10,181 - INFO - server - Server created
+2020-12-03 15:51:10,183 - INFO - server - Launching server
+2020-12-03 15:54:36,393 - INFO - server - Server created
+2020-12-03 15:54:36,397 - INFO - server - Launching server
+2020-12-03 15:55:47,905 - INFO - server - Server created
+2020-12-03 15:55:47,907 - INFO - server - Launching server
+2020-12-03 15:56:18,859 - INFO - server - Server created
+2020-12-03 15:56:18,861 - INFO - server - Launching server
+2020-12-03 15:56:53,320 - INFO - server - Server created
+2020-12-03 15:56:53,321 - INFO - server - Launching server
+2020-12-03 15:57:30,893 - INFO - server - Server created
+2020-12-03 15:57:30,896 - INFO - server - Launching server
+2020-12-03 16:06:38,158 - INFO - server - Server created
+2020-12-03 16:06:38,159 - INFO - server - Launching server
+2020-12-03 16:07:56,759 - INFO - server - Server created
+2020-12-03 16:07:56,763 - INFO - server - Launching server
+2020-12-03 16:10:53,249 - INFO - server - Server created
+2020-12-03 16:10:53,251 - INFO - server - Launching server
+2020-12-03 16:44:27,947 - INFO - server - Server created
+2020-12-03 16:44:27,949 - INFO - server - Launching server
+2020-12-03 16:46:36,476 - INFO - server - Server created
+2020-12-03 16:46:36,478 - INFO - server - Launching server
+2020-12-04 13:58:53,580 - INFO - server - Server created
+2020-12-04 13:58:53,583 - INFO - server - Launching server
+2020-12-04 13:59:17,203 - INFO - server - Server created
+2020-12-04 13:59:17,209 - INFO - server - Launching server
+2020-12-04 13:59:31,404 - INFO - server - Server created
+2020-12-04 13:59:31,408 - INFO - server - Launching server
+2020-12-04 14:03:48,774 - INFO - server - Server created
+2020-12-04 14:03:48,775 - INFO - server - Launching server
+2020-12-04 14:07:39,313 - INFO - server - Server created
+2020-12-04 14:07:39,315 - INFO - server - Launching server
+2020-12-04 14:08:40,027 - INFO - server - Server created
+2020-12-04 14:08:40,029 - INFO - server - Launching server
+2020-12-04 14:10:30,180 - INFO - server - Server created
+2020-12-04 14:10:30,183 - INFO - server - Launching server
+2020-12-04 14:13:24,006 - INFO - server - Server created
+2020-12-04 14:13:24,008 - INFO - server - Launching server
+2020-12-04 14:14:33,153 - INFO - server - Server created
+2020-12-04 14:14:33,156 - INFO - server - Launching server
+2020-12-04 14:16:17,560 - INFO - server - Server created
+2020-12-04 14:16:17,564 - INFO - server - Launching server
+2020-12-04 14:18:33,685 - INFO - server - Server created
+2020-12-04 14:18:33,686 - INFO - server - Launching server
+2020-12-04 14:22:13,592 - INFO - server - Server created
+2020-12-04 14:22:13,594 - INFO - server - Launching server
+2020-12-04 14:23:00,730 - INFO - server - Server created
+2020-12-04 14:23:00,733 - INFO - server - Launching server
+2020-12-04 15:19:22,080 - INFO - server - Server created
+2020-12-04 15:19:22,085 - INFO - server - Launching server
+2020-12-04 15:53:08,523 - INFO - server - Server created
+2020-12-04 15:53:08,524 - INFO - server - Launching server
+2020-12-04 15:54:17,477 - INFO - server - Server created
+2020-12-04 15:54:17,481 - INFO - server - Launching server
+2020-12-04 15:55:28,426 - INFO - server - Server created
+2020-12-04 15:55:28,430 - INFO - server - Launching server
+2020-12-04 15:56:20,847 - INFO - server - Server created
+2020-12-04 15:56:20,849 - INFO - server - Launching server
+2020-12-04 16:46:09,359 - INFO - server - Server created
+2020-12-04 16:46:09,362 - INFO - server - Launching server
+2020-12-04 16:50:13,602 - INFO - server - Server created
+2020-12-04 16:50:13,605 - INFO - server - Launching server
+2020-12-04 16:58:32,499 - INFO - server - Server created
+2020-12-04 16:58:32,501 - INFO - server - Launching server
+2020-12-04 16:59:45,740 - INFO - server - Server created
+2020-12-04 16:59:45,741 - INFO - server - Launching server
+2020-12-04 17:00:21,647 - INFO - server - Server created
+2020-12-04 17:00:21,651 - INFO - server - Launching server
+2020-12-04 17:05:18,695 - INFO - server - Server created
+2020-12-04 17:05:18,699 - INFO - server - Launching server
+2020-12-04 17:06:08,057 - INFO - server - Server created
+2020-12-04 17:06:08,059 - INFO - server - Launching server
+2020-12-04 17:08:10,844 - INFO - server - Server created
+2020-12-04 17:08:10,846 - INFO - server - Launching server
+2020-12-04 17:11:30,091 - INFO - server - Server created
+2020-12-04 17:11:30,092 - INFO - server - Launching server
+2020-12-04 17:17:10,091 - INFO - server - Server created
+2020-12-04 17:17:10,093 - INFO - server - Launching server
+2020-12-04 17:22:58,558 - INFO - server - Server created
+2020-12-04 17:22:58,559 - INFO - server - Launching server
+2020-12-05 18:26:27,964 - INFO - server - Server created
+2020-12-05 18:26:27,966 - INFO - server - Launching server
+2020-12-05 18:27:25,204 - INFO - server - Server created
+2020-12-05 18:27:25,205 - INFO - server - Launching server
+2020-12-05 18:28:24,132 - INFO - server - Server created
+2020-12-05 18:28:24,133 - INFO - server - Launching server
+2020-12-05 18:35:16,849 - INFO - server - Server created
+2020-12-05 18:35:16,852 - INFO - server - Launching server
+2020-12-05 18:36:44,863 - INFO - server - Server created
+2020-12-05 18:36:44,865 - INFO - server - Launching server
+2020-12-05 18:37:10,064 - INFO - server - Server created
+2020-12-05 18:37:10,065 - INFO - server - Launching server
+2020-12-05 18:37:58,937 - INFO - server - Server created
+2020-12-05 18:37:58,938 - INFO - server - Launching server
+2020-12-05 18:39:00,908 - INFO - server - Server created
+2020-12-05 18:39:00,910 - INFO - server - Launching server
+2020-12-05 18:45:41,397 - INFO - server - Server created
+2020-12-05 18:45:41,400 - INFO - server - Launching server
+2020-12-05 18:46:11,403 - INFO - server - Server created
+2020-12-05 18:46:11,405 - INFO - server - Launching server
+2020-12-05 18:48:49,480 - INFO - server - Server created
+2020-12-05 18:48:49,482 - INFO - server - Launching server
+2020-12-22 13:23:36,650 - INFO - server - Server created
+2020-12-22 13:23:36,651 - INFO - server - Launching server
+2020-12-22 13:28:50,464 - INFO - server - Server created
+2020-12-22 13:28:50,465 - INFO - server - Launching server
+2020-12-22 13:30:16,059 - INFO - server - Server created
+2020-12-22 13:30:16,061 - INFO - server - Launching server
+2020-12-22 13:31:10,938 - INFO - server - Server created
+2020-12-22 13:31:10,939 - INFO - server - Launching server
+2020-12-22 13:48:13,906 - INFO - server - Server created
+2020-12-22 13:48:13,909 - INFO - server - Launching server
+2020-12-22 13:52:13,331 - INFO - server - Server created
+2020-12-22 13:52:13,332 - INFO - server - Launching server
+2020-12-22 13:52:50,822 - INFO - server - Server created
+2020-12-22 13:52:50,824 - INFO - server - Launching server
+2020-12-22 13:58:39,489 - INFO - server - Server created
+2020-12-22 13:58:39,491 - INFO - server - Launching server
+2020-12-22 14:01:21,862 - INFO - server - Server created
+2020-12-22 14:01:21,864 - INFO - server - Launching server
+2020-12-22 14:05:27,457 - INFO - server - Server created
+2020-12-22 14:05:27,460 - INFO - server - Launching server
+2020-12-22 14:10:12,883 - INFO - server - Server created
+2020-12-22 14:10:12,884 - INFO - server - Launching server
+2020-12-22 14:14:33,855 - INFO - server - Server created
+2020-12-22 14:14:33,857 - INFO - server - Launching server
+2020-12-22 14:17:01,272 - INFO - server - Server created
+2020-12-22 14:17:01,274 - INFO - server - Launching server
+2020-12-22 14:19:55,085 - INFO - server - Server created
+2020-12-22 14:19:55,087 - INFO - server - Launching server
+2020-12-22 14:23:16,392 - INFO - server - Server created
+2020-12-22 14:23:16,394 - INFO - server - Launching server
+2020-12-22 14:24:07,548 - INFO - server - Server created
+2020-12-22 14:24:07,551 - INFO - server - Launching server
+2020-12-22 14:24:46,769 - INFO - server - Server created
+2020-12-22 14:24:46,771 - INFO - server - Launching server
+2020-12-22 14:26:31,756 - INFO - server - Server created
+2020-12-22 14:26:31,759 - INFO - server - Launching server
+2020-12-22 14:37:13,592 - INFO - server - Server created
+2020-12-22 14:37:13,594 - INFO - server - Launching server
+2020-12-22 14:39:14,622 - INFO - server - Server created
+2020-12-22 14:39:14,625 - INFO - server - Launching server
+2020-12-22 16:39:42,981 - INFO - server - Server created
+2020-12-22 16:39:42,984 - INFO - server - Launching server
+2020-12-22 16:44:05,795 - INFO - server - Server created
+2020-12-22 16:44:05,799 - INFO - server - Launching server
+2020-12-22 16:49:38,318 - INFO - server - Server created
+2020-12-22 16:49:38,321 - INFO - server - Launching server
+2020-12-22 17:08:27,777 - INFO - server - Server created
+2020-12-22 17:08:27,780 - INFO - server - Launching server
+2020-12-22 17:09:50,105 - INFO - server - Server created
+2020-12-22 17:09:50,107 - INFO - server - Launching server
+2020-12-22 17:12:56,534 - INFO - server - Server created
+2020-12-22 17:12:56,537 - INFO - server - Launching server
+2020-12-22 17:14:45,176 - INFO - server - Server created
+2020-12-22 17:14:45,179 - INFO - server - Launching server
+2020-12-22 17:22:12,637 - INFO - server - Server created
+2020-12-22 17:22:12,639 - INFO - server - Launching server
+2020-12-22 17:27:58,083 - INFO - server - Server created
+2020-12-22 17:27:58,086 - INFO - server - Launching server
+2020-12-22 17:30:22,991 - INFO - server - Server created
+2020-12-22 17:30:22,994 - INFO - server - Launching server
+2020-12-23 15:04:40,325 - INFO - server - Server created
+2020-12-23 15:04:40,327 - INFO - server - Launching server
+2020-12-23 16:04:14,794 - INFO - server - Server created
+2020-12-23 16:04:14,796 - INFO - server - Launching server
+2020-12-23 16:09:05,950 - INFO - server - Server created
+2020-12-23 16:09:05,952 - INFO - server - Launching server
+2020-12-23 16:18:45,134 - INFO - server - Server created
+2020-12-23 16:18:45,135 - INFO - server - Launching server
+2020-12-23 17:26:01,702 - INFO - server - Server created
+2020-12-23 17:26:01,704 - INFO - server - Launching server
+2020-12-23 17:27:20,699 - INFO - server - Server created
+2020-12-23 17:27:20,700 - INFO - server - Launching server
+2020-12-23 17:42:49,417 - INFO - server - Server created
+2020-12-23 17:42:49,418 - INFO - server - Launching server
+2021-01-02 16:01:28,068 - INFO - server - Server created
+2021-01-02 16:01:28,076 - INFO - server - Launching server
+2021-01-03 15:42:29,259 - INFO - server - Server created
+2021-01-03 15:42:29,261 - INFO - server - Launching server
+2021-01-03 15:45:34,577 - INFO - server - Server created
+2021-01-03 15:45:34,578 - INFO - server - Launching server
+2021-01-03 16:04:10,788 - INFO - server - Server created
+2021-01-03 16:04:10,790 - INFO - server - Launching server
+2021-01-03 16:18:01,420 - INFO - server - Server created
+2021-01-03 16:18:01,422 - INFO - server - Launching server
+2021-01-03 16:22:16,261 - INFO - server - Server created
+2021-01-03 16:22:16,263 - INFO - server - Launching server
+2021-01-04 14:16:33,629 - INFO - server - Server created
+2021-01-04 14:16:33,631 - INFO - server - Launching server
+2021-01-04 14:19:10,386 - INFO - server - Server created
+2021-01-04 14:19:10,388 - INFO - server - Launching server
+2021-01-04 14:21:36,150 - INFO - server - Server created
+2021-01-04 14:21:36,152 - INFO - server - Launching server
+2021-01-04 14:23:20,087 - INFO - server - Server created
+2021-01-04 14:23:20,088 - INFO - server - Launching server
+2021-01-04 14:24:55,894 - INFO - server - Server created
+2021-01-04 14:24:55,895 - INFO - server - Launching server
+2021-01-04 14:27:04,928 - INFO - server - Server created
+2021-01-04 14:27:04,929 - INFO - server - Launching server
+2021-01-04 15:19:28,033 - INFO - server - Server created
+2021-01-04 15:19:28,039 - INFO - server - Launching server
+2021-01-05 16:56:58,063 - INFO - server - Server created
+2021-01-05 16:56:58,065 - INFO - server - Launching server
+2021-01-05 17:11:50,730 - INFO - server - Server created
+2021-01-05 17:11:50,732 - INFO - server - Launching server
+2021-01-05 17:12:37,915 - INFO - server - Server created
+2021-01-05 17:12:37,917 - INFO - server - Launching server
+2021-01-05 17:16:23,037 - INFO - server - Server created
+2021-01-05 17:16:23,039 - INFO - server - Launching server
+2021-01-05 17:18:44,468 - INFO - server - Server created
+2021-01-05 17:18:44,469 - INFO - server - Launching server
+2021-01-05 17:23:54,079 - INFO - server - Server created
+2021-01-05 17:23:54,081 - INFO - server - Launching server
+2021-01-05 17:25:51,437 - INFO - server - Server created
+2021-01-05 17:25:51,439 - INFO - server - Launching server
+2021-01-05 17:57:03,502 - INFO - server - Server created
+2021-01-05 17:57:03,504 - INFO - server - Launching server
+2021-01-06 13:45:38,551 - INFO - server - Server created
+2021-01-06 13:45:38,554 - INFO - server - Launching server
+2021-01-06 13:47:43,892 - INFO - server - Server created
+2021-01-06 13:47:43,894 - INFO - server - Launching server
+2021-01-06 13:48:59,931 - INFO - server - Server created
+2021-01-06 13:48:59,933 - INFO - server - Launching server
+2021-01-06 13:50:59,119 - INFO - server - Server created
+2021-01-06 13:50:59,121 - INFO - server - Launching server
+2021-01-06 14:05:17,641 - INFO - server - Server created
+2021-01-06 14:05:17,643 - INFO - server - Launching server
+2021-01-06 14:07:40,940 - INFO - server - Server created
+2021-01-06 14:07:40,942 - INFO - server - Launching server
+2021-01-06 14:20:43,230 - INFO - server - Server created
+2021-01-06 14:20:43,231 - INFO - server - Launching server
+2021-01-06 16:12:53,288 - INFO - server - Server created
+2021-01-06 16:12:53,291 - INFO - server - Launching server
+2021-01-06 16:13:55,894 - INFO - server - Server created
+2021-01-06 16:13:55,896 - INFO - server - Launching server
+2021-01-06 16:19:24,623 - INFO - server - Server created
+2021-01-06 16:19:24,625 - INFO - server - Launching server
+2021-01-06 16:21:32,163 - INFO - server - Server created
+2021-01-06 16:21:32,166 - INFO - server - Launching server
+2021-01-06 16:24:09,759 - INFO - server - Server created
+2021-01-06 16:24:09,761 - INFO - server - Launching server
+2021-01-06 16:45:38,671 - INFO - server - Server created
+2021-01-06 16:45:38,673 - INFO - server - Launching server
+2021-01-06 16:48:47,378 - INFO - server - Server created
+2021-01-06 16:48:47,380 - INFO - server - Launching server
+2021-01-06 16:57:07,210 - INFO - server - Server created
+2021-01-06 16:57:07,212 - INFO - server - Launching server
+2021-01-06 17:08:59,864 - INFO - server - Server created
+2021-01-06 17:08:59,868 - INFO - server - Launching server
+2021-01-06 17:10:33,755 - INFO - server - Server created
+2021-01-06 17:10:33,759 - INFO - server - Launching server
+2021-01-06 17:15:20,057 - INFO - server - Server created
+2021-01-06 17:15:20,060 - INFO - server - Launching server
+2021-01-07 14:31:06,426 - INFO - server - Server created
+2021-01-07 14:31:06,433 - INFO - server - Launching server
+2021-01-07 20:17:53,922 - INFO - server - Server created
+2021-01-07 20:17:53,926 - INFO - server - Launching server
+2021-01-07 20:19:32,947 - INFO - server - Server created
+2021-01-07 20:19:32,949 - INFO - server - Launching server
+2021-01-08 10:40:57,509 - INFO - server - Server created
+2021-01-08 10:40:57,511 - INFO - server - Launching server
+2021-01-08 15:07:03,412 - INFO - server - Server created
+2021-01-08 15:07:03,416 - INFO - server - Launching server
+2021-01-08 15:09:31,768 - INFO - server - Server created
+2021-01-08 15:09:31,770 - INFO - server - Launching server
+2021-01-10 14:03:46,880 - INFO - server - Server created
+2021-01-10 14:03:46,882 - INFO - server - Launching server
+2021-01-10 14:15:54,547 - INFO - server - Server created
+2021-01-10 14:15:54,550 - INFO - server - Launching server
+2021-01-10 14:18:06,423 - INFO - server - Server created
+2021-01-10 14:18:06,425 - INFO - server - Launching server
+2021-01-12 13:48:15,371 - INFO - server - Server created
+2021-01-12 13:48:15,373 - INFO - server - Launching server
+2021-01-12 13:57:42,177 - INFO - server - Server created
+2021-01-12 13:57:42,178 - INFO - server - Launching server
+2021-01-12 14:00:42,743 - INFO - server - Server created
+2021-01-12 14:00:42,745 - INFO - server - Launching server
+2021-01-12 14:01:29,923 - INFO - server - Server created
+2021-01-12 14:01:29,925 - INFO - server - Launching server
+2021-01-12 14:03:50,571 - INFO - server - Server created
+2021-01-12 14:03:50,573 - INFO - server - Launching server
+2021-01-12 14:25:50,071 - INFO - server - Server created
+2021-01-12 14:25:50,073 - INFO - server - Launching server
+2021-01-12 14:27:47,069 - INFO - server - Server created
+2021-01-12 14:27:47,071 - INFO - server - Launching server
+2021-01-12 14:30:29,554 - INFO - server - Server created
+2021-01-12 14:30:29,555 - INFO - server - Launching server
+2021-01-12 14:36:14,076 - INFO - server - Server created
+2021-01-12 14:36:14,078 - INFO - server - Launching server
+2021-01-12 14:39:32,777 - INFO - server - Server created
+2021-01-12 14:39:32,778 - INFO - server - Launching server
+2021-01-12 14:46:48,322 - INFO - server - Server created
+2021-01-12 14:46:48,325 - INFO - server - Launching server
+2021-01-12 14:49:07,297 - INFO - server - Server created
+2021-01-12 14:49:07,299 - INFO - server - Launching server
+2021-01-12 14:53:43,904 - INFO - server - Server created
+2021-01-12 14:53:43,906 - INFO - server - Launching server
+2021-01-12 14:55:06,284 - INFO - server - Server created
+2021-01-12 14:55:06,286 - INFO - server - Launching server
+2021-01-12 16:12:19,450 - INFO - server - Server created
+2021-01-12 16:12:19,452 - INFO - server - Launching server
+2021-01-12 16:14:09,765 - INFO - server - Server created
+2021-01-12 16:14:09,767 - INFO - server - Launching server
+2021-01-12 17:32:59,964 - INFO - server - Server created
+2021-01-12 17:32:59,967 - INFO - server - Launching server
+2021-01-12 17:36:43,582 - INFO - server - Server created
+2021-01-12 17:36:43,583 - INFO - server - Launching server
+2021-01-12 17:39:09,492 - INFO - server - Server created
+2021-01-12 17:39:09,493 - INFO - server - Launching server
+2021-01-12 17:40:10,274 - INFO - server - Server created
+2021-01-12 17:40:10,276 - INFO - server - Launching server
+2021-01-20 13:39:59,278 - INFO - server - Server created
+2021-01-20 13:39:59,281 - INFO - server - Launching server
+2021-01-20 15:49:40,542 - INFO - server - Server created
+2021-01-20 15:49:40,544 - INFO - server - Launching server
+2021-01-20 15:50:26,605 - INFO - server - Server created
+2021-01-20 15:50:26,606 - INFO - server - Launching server
+2021-01-20 15:51:24,965 - INFO - server - Server created
+2021-01-20 15:51:24,967 - INFO - server - Launching server
+2021-01-20 16:20:21,332 - INFO - server - Server created
+2021-01-20 16:20:21,334 - INFO - server - Launching server
+2021-01-20 17:07:42,679 - INFO - server - Server created
+2021-01-20 17:07:42,682 - INFO - server - Launching server
+2021-01-21 13:25:49,584 - INFO - server - Server created
+2021-01-21 13:25:49,595 - INFO - server - Launching server
+2021-01-21 13:36:49,303 - INFO - server - Server created
+2021-01-21 13:36:49,310 - INFO - server - Launching server
+2021-01-21 13:38:41,934 - INFO - server - Server created
+2021-01-21 13:38:41,938 - INFO - server - Launching server
+2021-01-21 13:53:41,914 - INFO - server - Server created
+2021-01-21 13:53:41,917 - INFO - server - Launching server
+2021-01-21 13:54:14,908 - INFO - server - Server created
+2021-01-21 13:54:14,910 - INFO - server - Launching server
+2021-01-21 13:56:26,913 - INFO - server - Server created
+2021-01-21 13:56:26,916 - INFO - server - Launching server
+2021-01-21 13:57:18,564 - INFO - server - Server created
+2021-01-21 13:57:18,568 - INFO - server - Launching server
+2021-01-21 14:02:49,074 - INFO - server - Server created
+2021-01-21 14:02:49,076 - INFO - server - Launching server
+2021-01-29 13:04:19,118 - INFO - server - Server created
+2021-01-29 13:04:19,120 - INFO - server - Launching server
+2021-01-29 13:05:21,228 - INFO - server - Server created
+2021-01-29 13:05:21,229 - INFO - server - Launching server
+2021-01-29 13:07:33,678 - INFO - server - Server created
+2021-01-29 13:07:33,680 - INFO - server - Launching server
+2021-01-29 13:09:02,103 - INFO - server - Server created
+2021-01-29 13:09:02,106 - INFO - server - Launching server
+2021-01-29 13:11:23,683 - INFO - server - Server created
+2021-01-29 13:11:23,685 - INFO - server - Launching server
+2021-01-29 13:16:37,668 - INFO - server - Server created
+2021-01-29 13:16:37,671 - INFO - server - Launching server
+2021-01-29 13:34:31,369 - INFO - server - Server created
+2021-01-29 13:34:31,372 - INFO - server - Launching server
+2021-01-29 13:55:14,656 - INFO - server - Server created
+2021-01-29 13:55:14,658 - INFO - server - Launching server
+2021-01-29 14:22:55,242 - INFO - server - Server created
+2021-01-29 14:22:55,245 - INFO - server - Launching server
+2021-01-29 14:24:29,569 - INFO - server - Server created
+2021-01-29 14:24:29,574 - INFO - server - Launching server
+2021-01-29 14:39:20,937 - INFO - server - Server created
+2021-01-29 14:39:20,940 - INFO - server - Launching server
+2021-01-29 15:24:16,907 - INFO - server - Server created
+2021-01-29 15:24:16,918 - INFO - server - Launching server
+2021-01-29 15:36:31,202 - INFO - server - Server created
+2021-01-29 15:36:31,206 - INFO - server - Launching server
+2021-01-29 16:05:35,815 - INFO - server - Server created
+2021-01-29 16:05:35,819 - INFO - server - Launching server
+2021-01-29 16:25:11,400 - INFO - server - Server created
+2021-01-29 16:25:11,402 - INFO - server - Launching server
+2021-01-29 16:39:41,566 - INFO - server - Server created
+2021-01-29 16:39:41,568 - INFO - server - Launching server
+2021-04-08 15:26:21,275 - INFO - server - Server created
+2021-04-08 15:26:21,281 - INFO - server - Launching server
+2021-04-08 15:26:37,747 - INFO - server - Server created
+2021-04-08 15:26:37,750 - INFO - server - Launching server
+2021-04-16 13:27:20,682 - INFO - server - Server created
+2021-04-16 13:27:20,685 - INFO - server - Launching server
+2021-04-16 13:27:48,907 - ERROR - server - Exception on /search [POST]
+Traceback (most recent call last):
+  File "/home/vincent/.local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/vincent/.local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/vincent/.local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/vincent/.local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/vincent/.local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/vincent/.local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/vincent/Documents/Développement/Projets perso et entraînement/JobsMiner/src/server.py", line 149, in search
+    searchResults = self.jobsAggreg.findJob(search, request.form["uniqueID"], int(age))
+  File "/home/vincent/Documents/Développement/Projets perso et entraînement/JobsMiner/src/jobsaggregator.py", line 40, in findJob
+    linkedinMiner = Linkedin()
+  File "/home/vincent/Documents/Développement/Projets perso et entraînement/JobsMiner/src/linkedin.py", line 44, in __init__
+    self.driver = webdriver.Chrome('./chromedriver')
+  File "/home/vincent/.local/lib/python3.7/site-packages/selenium/webdriver/chrome/webdriver.py", line 81, in __init__
+    desired_capabilities=desired_capabilities)
+  File "/home/vincent/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/vincent/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/vincent/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/vincent/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 87
+Current browser version is 89.0.4389.114 with binary path /usr/bin/google-chrome
+
+2021-05-03 13:56:32,159 - INFO - server - Server created
+2021-05-03 13:56:32,162 - INFO - server - Launching server
+2021-05-03 13:56:53,278 - ERROR - server - Exception on /search [POST]
+Traceback (most recent call last):
+  File "/home/vincent/.local/lib/python3.7/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/vincent/.local/lib/python3.7/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/vincent/.local/lib/python3.7/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/vincent/.local/lib/python3.7/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/vincent/.local/lib/python3.7/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/vincent/.local/lib/python3.7/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/vincent/Documents/Développement/Projets perso et entraînement/JobsMiner/src/server.py", line 149, in search
+    searchResults = self.jobsAggreg.findJob(search, request.form["uniqueID"], int(age))
+  File "/home/vincent/Documents/Développement/Projets perso et entraînement/JobsMiner/src/jobsaggregator.py", line 40, in findJob
+    linkedinMiner = Linkedin()
+  File "/home/vincent/Documents/Développement/Projets perso et entraînement/JobsMiner/src/linkedin.py", line 44, in __init__
+    self.driver = webdriver.Chrome('./chromedriver')
+  File "/home/vincent/.local/lib/python3.7/site-packages/selenium/webdriver/chrome/webdriver.py", line 81, in __init__
+    desired_capabilities=desired_capabilities)
+  File "/home/vincent/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "/home/vincent/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "/home/vincent/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/vincent/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created: This version of ChromeDriver only supports Chrome version 87
+Current browser version is 89.0.4389.114 with binary path /usr/bin/google-chrome
+
+2021-05-03 13:58:22,495 - INFO - server - Server created
+2021-05-03 13:58:22,504 - INFO - server - Launching server
+2021-05-03 13:59:30,772 - INFO - server - Server created
+2021-05-03 13:59:30,777 - INFO - server - Launching server
+2021-05-03 13:59:31,298 - INFO - server - Server created
+2021-05-03 13:59:31,301 - INFO - server - Launching server
+2021-05-03 14:02:25,741 - INFO - server - Server created
+2021-05-03 14:02:25,744 - INFO - server - Launching server
+2021-05-03 14:02:26,156 - INFO - server - Server created
+2021-05-03 14:02:26,159 - INFO - server - Launching server

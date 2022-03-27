@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Jobs Miner</title>
+        <link rel="stylesheet" href="{{ url_for('static',filename='styles/style.css') }}" />
+        <link rel='icon' href="{{ url_for('static',filename='files/favicon.png') }}" type='image/x-icon'/ >
+        <script src="{{ url_for('static',filename='js/script_en.js') }}"></script>
+        <script src="{{ url_for('static',filename='js/jquery-3.5.1.js') }}"></script>
+    </head>
+    <body>
+        <header>
+            
+            <div id="logo_container">
+                <a href="/en"><img src="{{ url_for('static',filename='files/logo.png') }}" alt="logo"/></a>
+            </div>
+            <div id="languages_selector">
+                <img src="{{ url_for('static',filename='files/us-flag.png') }}" alt="US flag"/>
+                <div id="dropdown_content">
+                    <a href="/fr"><img src="{{ url_for('static',filename='files/fr-flag.png') }}" alt="French flag"/></a>
+                </div>
+            </div>
+        </header>
+        <div id="main_zone">
+            <div id="search_zone">
+                <h1>Your search</h1>
+                <div name="search_form_table" id="search_form_table">
+
+                    <span class="form_line">{{ form.jobTitle }}</span>
+                    <span class="form_line">{{ form.location }}</span>
+                    <span class="form_line">{{ form.country }}</span>
+                    <span id="max_age_notif" class="form_line">You will see the offers published less than 30 days ago (use the slider below to change that setting)</span>
+                    <span class="form_line">{{ form.age(min=1, max=30, oninput="updateDisplayedMaxAge(value)") }}</span>
+                    
+                    
+
+                    
+                    {{ form.submit(class_="submission_btn", onclick="return search();") }}
+                    
+                </div>
+            </div>
+ 
+        
+            <div id="use_instructions">
+
+                <p>1. Enter the job you're interested in, your preferred location and your country. You can also specify a maximum age for the ads you want to see</p>
+                <p>2. Upon clicking the "Search" button, Jobs Miner will start crawling the biggest job boards available online and generate a list of results. Depending on your search, this process can take several minutes. Be patient!</p>
+                <p>3. Jobs Miner will then display the job offers it found for your search. If you wish to save these results, you can also download these results as a CSV file!</p>
+
+
+            </div>
+        </div>
+        <footer>
+            <p>©2020 Jobs Miner, Vincent Papelard</p>
+        </footer>
+        <div id="loading">
+
+            <div id="loading_image">
+                <p>Jobs Miner is looking for job offers matching your search. This can take several minutes...</p>
+                <img src="{{ url_for('static',filename='files/loading.gif') }}" alt="Loading..." />
+            </div>
+            
+        </div>
+    </body>
+    
+
+</html>

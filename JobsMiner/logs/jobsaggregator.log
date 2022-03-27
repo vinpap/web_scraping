@@ -1,0 +1,3 @@
+2021-05-03 13:59:45,791 - DEBUG - jobsaggregator - Search submitted with the following parameters: {'job': 'cashier', 'location': 'Anchorage', 'country': 'US'}
+2021-05-03 14:02:40,652 - DEBUG - jobsaggregator - Search submitted with the following parameters: {'job': 'cashier', 'location': 'Anchorage', 'country': 'US'}
+2021-05-03 14:04:16,681 - DEBUG - jobsaggregator - Search completed with the following parameters: {'job': 'cashier', 'location': 'Anchorage', 'country': 'US'}

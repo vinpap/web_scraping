@@ -1,0 +1,5 @@
+But : scraper automatiquement les tweets de Twitter et créer des datasets de cette manière.
+
+Datasets à créer :
+- au moins 100000 tweets publiés ces deux dernières années en anglais. Chaque résultat comprend le texte du tweet, son heure exacte de publication, son nombre de retweets, son nombre de likes et son nombre de réponses
+- même chose pour 100000 tweets en français
